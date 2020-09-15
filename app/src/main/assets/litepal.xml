@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="foresee_weather"/>
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.foresee.foreseeweather.db.Province"/>
+        <mapping class="com.foresee.foreseeweather.db.City"/>
+        <mapping class="com.foresee.foreseeweather.db.County"/>
+    </list>
+</litepal>
